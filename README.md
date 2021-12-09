@@ -1,2 +1,1 @@
-# IMAGE
-creating figures using CSS 
+https://soumyajit-mandal.github.io/IMAGE/
